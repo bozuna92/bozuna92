@@ -1,2 +1,9 @@
-<h1>Hi, I'm Bridget, an <a href="https://linkedin.com/in/bridgieliana-ozuna-5384722a7/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Bridget, an <a href="https://www.linkedin.com/in/bozuna92/">IT Professional</a>☺</h1>
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Creating resource groups](https://github.com/bozuna92/Creating-resource-group)
+  
+
+<h2>🤳Connect with me:</h2>
