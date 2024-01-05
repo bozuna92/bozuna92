@@ -8,6 +8,7 @@
  
 - <b>OS-Ticket</b>
   - [Os-ticket prereqs and install](https://github.com/bozuna92/Creating-resource-group)
+  - [Os-ticket post installation setup](https://github.com/bozuna92/Os-ticket-post-installation-setup)
   
 
 
