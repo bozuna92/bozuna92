@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating resource groups](https://github.com/bozuna92/Creating-resource-group)
+  - [Creating virtual machines](https://github.com/bozuna92/virtual-machines)
   
 
 <h2>🤳Connect with me:</h2>
