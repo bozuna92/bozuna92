@@ -5,6 +5,9 @@
 - <b>Microsoft Azure</b>
   - [Creating resource groups](https://github.com/bozuna92/Creating-resource-group)
   - [Creating virtual machines](https://github.com/bozuna92/virtual-machines)
+ 
+- <b>OS-Ticket</b>
+- [Os-ticket prereqs and install](https://github.com/bozuna92/Creating-resource-group)
   
 
 <h2>🤳Connect with me:</h2>
