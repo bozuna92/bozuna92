@@ -7,8 +7,9 @@
   - [Creating virtual machines](https://github.com/bozuna92/virtual-machines)
  
 - <b>OS-Ticket</b>
-  - [Os-ticket prereqs and install](https://github.com/bozuna92/Creating-resource-group)
-  - [Os-ticket post installation setup](https://github.com/bozuna92/Os-ticket-post-installation-setup)
+  - [Os-Ticket prereqs and install](https://github.com/bozuna92/Creating-resource-group)
+  - [Os-Ticket post installation setup](https://github.com/bozuna92/Os-ticket-post-installation-setup)
+  - [Os-Ticket Tickets and ticket cycle](https://github.com/bozuna92/Tickets-and-ticket-lifecycle)
   
 
 
