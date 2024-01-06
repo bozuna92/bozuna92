@@ -11,5 +11,10 @@
   - [Os-Ticket post installation setup](https://github.com/bozuna92/Os-ticket-post-installation-setup)
   - [Tickets and resolving](https://github.com/bozuna92/Tickets-and-ticket-lifecycle)
   
+- <b>VPN-virtual private networks </b>
+  - [Proton VPN setup](https://github.com/bozuna92/VPN-Setup)
+
+
+
 
 
