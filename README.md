@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating resource groups](https://github.com/bozuna92/Creating-resource-group)
+  - [Creating Storage account](https://github.com/bozuna92/Azure-storage-account)
   - [Creating virtual machines](https://github.com/bozuna92/virtual-machines)
  
 - <b>OS-Ticket</b>
